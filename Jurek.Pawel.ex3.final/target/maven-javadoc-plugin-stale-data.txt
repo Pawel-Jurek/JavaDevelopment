@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/pawel/Downloads/Jurek.Pawel.ex3.prototyp/Jurek.Pawel.ex3.prototyp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pawel/Downloads/Jurek.Pawel.ex3.prototyp/Jurek.Pawel.ex3.prototyp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Gradebook.Jurek.Pawel 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/pawel/Downloads/Jurek.Pawel.ex3.prototyp/Jurek.Pawel.ex3.prototyp/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Gradebook.Jurek.Pawel 1.0-SNAPSHOT API'
+pl.polsl.controller
+pl.polsl.model
+pl.polsl.view
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\src\main\java = 1699732259436
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\allclasses-index.html = 1700310593480
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\allpackages-index.html = 1700310593485
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\element-list = 1700310593244
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\help-doc.html = 1700310593537
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\index-all.html = 1700310593523
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\index.html = 1700310593452
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\jquery-ui.overrides.css = 1700310593567
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\member-search-index.js = 1700310593497
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\module-search-index.js = 1700310593488
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\overview-summary.html = 1700310593528
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\overview-tree.html = 1700310593445
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\package-search-index.js = 1700310593491
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\script.js = 1700310593545
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\search.js = 1700310593549
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\serialized-form.html = 1700310593334
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\stylesheet.css = 1700310593541
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\tag-search-index.js = 1700310593499
+C:\Users\pawel\Downloads\Jurek.Pawel.ex3.prototyp\Jurek.Pawel.ex3.prototyp\target\site\apidocs\type-search-index.js = 1700310593494
