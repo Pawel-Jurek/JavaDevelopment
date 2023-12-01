@@ -1,0 +1,13 @@
+pl\polsl\servlets\SummaryServlet.class
+pl\polsl\servlets\GradesServlet.class
+pl\polsl\resources\JakartaEE10Resource.class
+pl\polsl\model\StudentGradebook.class
+pl\polsl\model\InvalidGradeException.class
+pl\polsl\model\Subject.class
+pl\polsl\servlets\FileServlet.class
+pl\polsl\servlets\notPassingSubjectsServet.class
+pl\polsl\model\PartialGrade.class
+pl\polsl\model\Grade.class
+pl\polsl\controller\GradesImporter.class
+pl\polsl\controller\JakartaRestConfiguration.class
+pl\polsl\model\FinalGrade.class

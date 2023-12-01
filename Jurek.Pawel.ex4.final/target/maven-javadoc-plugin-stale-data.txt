@@ -1,0 +1,80 @@
+@options
+@packages
+-classpath
+'C:/Users/pawel/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/pawel/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/pawel/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/pawel/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/pawel/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/pawel/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/pawel/Downloads/Jurek.Pawel.ex4.prototyp/Jurek.Pawel.ex4.final/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pawel/Downloads/Jurek.Pawel.ex4.prototyp/Jurek.Pawel.ex4.final/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Gradebook.Jurek.Pawel 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/pawel/Downloads/Jurek.Pawel.ex4.prototyp/Jurek.Pawel.ex4.final/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Gradebook.Jurek.Pawel 1.0-SNAPSHOT API'
+pl.polsl.controller
+pl.polsl.model
+pl.polsl.resources
+pl.polsl.servlets
+C:\Users\pawel\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1700861266377
+C:\Users\pawel\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1700861266977
+C:\Users\pawel\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1700861266880
+C:\Users\pawel\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1700861266643
+C:\Users\pawel\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1700861266648
+C:\Users\pawel\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1700861266639
+C:\Users\pawel\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1700861267218
+C:\Users\pawel\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1700861266871
+C:\Users\pawel\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1700861266725
+C:\Users\pawel\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1700861266826
+C:\Users\pawel\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1700861266930
+C:\Users\pawel\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1700861266977
+C:\Users\pawel\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1700861266976
+C:\Users\pawel\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1700861267017
+C:\Users\pawel\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1700861267044
+C:\Users\pawel\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1700861267092
+C:\Users\pawel\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1700861267104
+C:\Users\pawel\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1700861267099
+C:\Users\pawel\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1700861267198
+C:\Users\pawel\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1700861267166
+C:\Users\pawel\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1700861267183
+C:\Users\pawel\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1700861267218
+C:\Users\pawel\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1700861267271
+C:\Users\pawel\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1700861267270
+C:\Users\pawel\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1700861267363
+C:\Users\pawel\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1700861267388
+C:\Users\pawel\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1700861267301
+C:\Users\pawel\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1700861267344
+C:\Users\pawel\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1700861267353
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\src\main\java = 1700860669188
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\allclasses-index.html = 1701470609103
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\allpackages-index.html = 1701470609109
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\element-list = 1701470608839
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\help-doc.html = 1701470609179
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\index-all.html = 1701470609165
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\index.html = 1701470609070
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\jquery-ui.overrides.css = 1701470609212
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\member-search-index.js = 1701470609120
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\module-search-index.js = 1701470609112
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\overview-summary.html = 1701470609170
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\overview-tree.html = 1701470609062
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\package-search-index.js = 1701470609115
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\script.js = 1701470609186
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\search.js = 1701470609191
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\serialized-form.html = 1701470608932
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\stylesheet.css = 1701470609184
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\tag-search-index.js = 1701470609122
+C:\Users\pawel\Downloads\Jurek.Pawel.ex4.prototyp\Jurek.Pawel.ex4.final\target\site\apidocs\type-search-index.js = 1701470609117
